@@ -4,7 +4,7 @@
 
 # Step 1
 
-cmd --->npm install
+cmd ---> npm install
 
 # Step 2
 
@@ -15,9 +15,9 @@ command ---> nodemon src/App.ts
 
 Compiling typescript to plain Java Script </br>
 make sure you are having typescript install globally </br>
-cmd -----> tsc -p .
+command -----> tsc -p .
 
 # Step 4
 
 run the compiled java Script </br>
-node dist/App.js </br>
+command ----> node dist/App.js </br>
