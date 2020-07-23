@@ -8,16 +8,16 @@ cmd --->npm install
 
 # Step 2
 
-make sure you are having nodemon and ts-node install globally
-cmd ---> nodemon src/App.ts
+make sure you are having nodemon and ts-node install globally </br>
+command ---> nodemon src/App.ts
 
 # Step 3
 
-Compiling typescript to plain Java Script
-make sure you are having typescript install globally
+Compiling typescript to plain Java Script </br>
+make sure you are having typescript install globally </br>
 cmd -----> tsc -p .
 
 # Step 4
 
-run the compiled java Script
-node dist/App.js
+run the compiled java Script </br>
+node dist/App.js </br>
